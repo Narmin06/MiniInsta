@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\MiniInsta\\MiniInsta\\MiniInsta\\MiniInsta.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\Tasks\\Ado.Net   Entity Framework\\MiniInsta\\MiniInsta\\MiniInsta\\MiniInsta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\MiniInsta\\MiniInsta\\MiniInsta\\MiniInsta.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\Tasks\\Ado.Net   Entity Framework\\MiniInsta\\MiniInsta\\MiniInsta\\MiniInsta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\MiniInsta\\MiniInsta\\MiniInsta\\MiniInsta.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Tasks\\Ado.Net   Entity Framework\\MiniInsta\\MiniInsta\\MiniInsta\\MiniInsta.csproj",
         "projectName": "MiniInsta",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\MiniInsta\\MiniInsta\\MiniInsta\\MiniInsta.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Tasks\\Ado.Net   Entity Framework\\MiniInsta\\MiniInsta\\MiniInsta\\MiniInsta.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\MiniInsta\\MiniInsta\\MiniInsta\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Tasks\\Ado.Net   Entity Framework\\MiniInsta\\MiniInsta\\MiniInsta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

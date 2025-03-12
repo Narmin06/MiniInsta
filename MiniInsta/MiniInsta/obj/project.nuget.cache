@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IzclvCId0PtcDCc3J4VWwxaijBX2txuRFMW5tS2mH9zPjpQHMw5BMWpindWgOjfLT3yhLa/PiHN9HBpBxwtxZA==",
+  "dgSpecHash": "LhFlwuAmJdYTyfMEmYkBpwYHJGOmmeAo/7TAnWB3+MejaJqUZI4Wc9hCPSMgfThZsRDqxaQyOAWs0IjSfNffWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\MiniInsta\\MiniInsta\\MiniInsta\\MiniInsta.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\Tasks\\Ado.Net   Entity Framework\\MiniInsta\\MiniInsta\\MiniInsta\\MiniInsta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

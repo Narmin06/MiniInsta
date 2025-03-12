@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniInsta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fb111e2b3bad3e4865d7df2e1db6c47152297b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniInsta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniInsta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

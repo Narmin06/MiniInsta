@@ -3,5 +3,5 @@ using MiniInsta;
 
 using (var db = new Context())
 {
-
+    Console.WriteLine("HELLO");
 }
